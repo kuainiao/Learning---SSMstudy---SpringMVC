@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="29-returnString-external"
+  id="myeclipse.1469416354922"
+  context-root="/29-returnString-external"
+  j2ee-spec="5.0"
+  archive="29-returnString-external.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

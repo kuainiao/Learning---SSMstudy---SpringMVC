@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="53-permissionInterceptor"
+  id="myeclipse.1469416354922"
+  context-root="/53-permissionInterceptor"
+  j2ee-spec="5.0"
+  archive="53-permissionInterceptor.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="10-requestPath-5"
+  id="myeclipse.1469439058245"
+  context-root="/10-requestPath-5"
+  j2ee-spec="5.0"
+  archive="10-requestPath-5.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

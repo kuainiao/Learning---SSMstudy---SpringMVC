@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="13-abstractController"
+  id="myeclipse.1469416354922"
+  context-root="/13-abstractController"
+  j2ee-spec="5.0"
+  archive="13-abstractController.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

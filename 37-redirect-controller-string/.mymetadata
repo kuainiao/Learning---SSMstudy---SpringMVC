@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="37-redirect-controller-string"
+  id="myeclipse.1469416354922"
+  context-root="/37-redirect-controller-string"
+  j2ee-spec="5.0"
+  archive="37-redirect-controller-string.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

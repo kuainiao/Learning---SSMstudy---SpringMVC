@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="14-multiActionController"
+  id="myeclipse.1469416354922"
+  context-root="/14-multiActionController"
+  j2ee-spec="5.0"
+  archive="14-multiActionController.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

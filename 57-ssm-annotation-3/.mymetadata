@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="57-ssm-annotation-3"
+  id="myeclipse.1469677932190"
+  context-root="/57-ssm-annotation-3"
+  j2ee-spec="5.0"
+  archive="57-ssm-annotation-3.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

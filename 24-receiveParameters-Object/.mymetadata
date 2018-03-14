@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="24-receiveParameters-Object"
+  id="myeclipse.1469416354922"
+  context-root="/24-receiveParameters-Object"
+  j2ee-spec="5.0"
+  archive="24-receiveParameters-Object.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

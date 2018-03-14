@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="42-typeConverter-2"
+  id="myeclipse.1469416354922"
+  context-root="/42-typeConverter-2"
+  j2ee-spec="5.0"
+  archive="42-typeConverter-2.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-tx-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-web-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-aspects-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-jdbc-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-core-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-aop-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-expression-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-beans-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/com.springsource.org.apache.log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-context-support-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-context-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-webmvc-4.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/53-permissionInterceptor/WebRoot/WEB-INF/lib/spring-orm-4.2.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
