@@ -23,6 +23,7 @@ public class StudentController {
 
 	@RequestMapping("/register.do")
 	public String doRegister(String name, int age) {
+
 		Student student = new Student(name, age);
 		service.addStudent(student);
 		return "/welcome.jsp";
